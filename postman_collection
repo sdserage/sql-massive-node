@@ -31,7 +31,7 @@
 					"enabled": true
 				}
 			],
-			"url": "http://localhost:3000/api/product/{{productID_0}}",
+			"url": "http://localhost:3000/api/products/{{productID_0}}",
 			"queryParams": [],
 			"preRequestScript": null,
 			"pathVariables": {},
@@ -61,7 +61,7 @@
 					"enabled": true
 				}
 			],
-			"url": "http://localhost:3000/api/product/{{productID_0}}",
+			"url": "http://localhost:3000/api/products/{{productID_0}}",
 			"queryParams": [],
 			"preRequestScript": null,
 			"pathVariables": {},
@@ -91,7 +91,7 @@
 					"enabled": true
 				}
 			],
-			"url": "http://localhost:3000/api/product",
+			"url": "http://localhost:3000/api/products",
 			"queryParams": [],
 			"preRequestScript": null,
 			"pathVariables": {},
@@ -181,7 +181,7 @@
 					"enabled": true
 				}
 			],
-			"url": "http://localhost:3000/api/product/{{productID_0}}",
+			"url": "http://localhost:3000/api/products/{{productID_0}}",
 			"queryParams": [],
 			"preRequestScript": null,
 			"pathVariables": {},
@@ -211,7 +211,7 @@
 					"enabled": true
 				}
 			],
-			"url": "http://localhost:3000/api/product",
+			"url": "http://localhost:3000/api/products",
 			"queryParams": [],
 			"preRequestScript": null,
 			"pathVariables": {},
@@ -241,7 +241,7 @@
 					"enabled": true
 				}
 			],
-			"url": "http://localhost:3000/api/product/{{productID_0}}?desc=updated",
+			"url": "http://localhost:3000/api/products/{{productID_0}}?desc=updated",
 			"queryParams": [
 				{
 					"key": "desc",
@@ -279,7 +279,7 @@
 					"enabled": true
 				}
 			],
-			"url": "http://localhost:3000/api/product/{{productID_2}}",
+			"url": "http://localhost:3000/api/products/{{productID_2}}",
 			"queryParams": [],
 			"preRequestScript": null,
 			"pathVariables": {},
@@ -309,7 +309,7 @@
 					"enabled": true
 				}
 			],
-			"url": "http://localhost:3000/api/product",
+			"url": "http://localhost:3000/api/products",
 			"queryParams": [],
 			"preRequestScript": null,
 			"pathVariables": {},
@@ -339,7 +339,7 @@
 					"enabled": true
 				}
 			],
-			"url": "http://localhost:3000/api/product/{{productID_1}}",
+			"url": "http://localhost:3000/api/products/{{productID_1}}",
 			"queryParams": [],
 			"preRequestScript": null,
 			"pathVariables": {},
